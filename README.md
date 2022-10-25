@@ -1,4 +1,4 @@
-# Lab2py#
+# Lab2py
 ## Langkah-Langkah Praktikum
 ### Latihan 1
 Untuk Menampilkan tulisan di layar dapat menggunakan syntax print dan diikuti dengan tanda kutip " kata yang ingin ditampilkan dan ditutup dengan tanda kutip lagi "setelah syntax print seperti gambar dibawah ini.
